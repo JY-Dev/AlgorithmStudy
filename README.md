@@ -1,4 +1,4 @@
-# AlgorithmStudy
+# `코딩테스트 대비` , 꾸준하게 기록하기 위한 Repository
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjy0302014)](https://solved.ac/kjy0302014)
 
